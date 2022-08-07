@@ -1,5 +1,10 @@
 # [link](https://daisuke23bubu.github.io/link/)
-SNSなどのリンクをまとめました。外部のサービスを使おうか迷いましたが、勉強を兼ねて作ることにしました。
+SNSなどのリンクをまとめました。
+- Portfolio
+- Blog
+- GitHub
+- Wantedly
+- Facebook
 
 ## 利用技術
 - HTML
