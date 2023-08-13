@@ -1,15 +1,15 @@
 # [link](https://daisuke23bubu.github.io/link/)
-SNSなどのリンクをまとめました。
 - Portfolio
-- Blog
 - GitHub
+- Twitter
 - Wantedly
 - Facebook
 
-## 利用技術
+## Skills
 - HTML
 - CSS
 - JavaScript
   - vanta.js
 - Git
+  - GitHub
   - github pages
